@@ -6,7 +6,8 @@ Join our Discord community @ https://discord.gg/emUevBu
 
 ## Please read our wiki
 
-Link coming soon!
+https://github.com/defvader/EonBot/wiki
+
 
 ### How to Install EonBot
 
