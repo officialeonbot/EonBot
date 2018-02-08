@@ -23,14 +23,14 @@ Link coming soon!
 
 Developers
 
-@DevDavid#5817
+* @DevDavid#5817
 
-@JukeBoxHero#6492
+* @JukeBoxHero#6492
 
 Sales and Support
 
-@EonJames#777
+* @EonJames#777
 
 Discord Community Manager
 
-@defvader#2849
+* @defvader#2849
