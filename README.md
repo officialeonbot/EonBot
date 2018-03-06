@@ -7,7 +7,7 @@ Join our Discord community @ https://discord.gg/emUevBu
 <br />
 
 ## Please read our wiki
-Most of your questions will be answered here.
+For all of your question about how to purchase, install and PROFIT from Eonbot!
 
 https://github.com/officialeonbot/EonBot/wiki
 
