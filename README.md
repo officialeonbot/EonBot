@@ -13,12 +13,6 @@ https://github.com/officialeonbot/EonBot/wiki
 
 <br />
 
-### How to Install EonBot
-
-Link coming soon!
-
-<br />
-
 ### The EonBot Team on Discord
 
 Developers
